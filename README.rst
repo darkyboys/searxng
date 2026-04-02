@@ -1,6 +1,7 @@
 This repo is maintained by darkyboys and contains a working version of SearXNG
 
 To Run this make sure to run this in the installation directory
+
 ```bash
 git clone https://github.com/darkyboys/searxng
 cd searxng
